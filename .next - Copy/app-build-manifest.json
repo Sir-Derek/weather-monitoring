@@ -1,0 +1,62 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/chunks/app/_not-found/page-ac95442c4f5071a9.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/css/e750661af15292a9.css",
+      "static/chunks/app/layout-36122f3bff1cdfd8.js"
+    ],
+    "/fonts/preferences/page": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/chunks/565-35b09af4f0e7def4.js",
+      "static/chunks/app/fonts/preferences/page-0e9ddaca00aa8d30.js"
+    ],
+    "/weatherpage/page": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/chunks/app/weatherpage/page-15ade193aceae9eb.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/chunks/565-35b09af4f0e7def4.js",
+      "static/chunks/app/page-83fb4a24789d4000.js"
+    ],
+    "/fonts/summary/page": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/chunks/8e1d74a4-3764197a4e4032a5.js",
+      "static/chunks/87cdb5df-6c569da121da9641.js",
+      "static/chunks/722-23e0f902b5320aaf.js",
+      "static/chunks/app/fonts/summary/page-d7653c38814103b2.js"
+    ],
+    "/weathersummary/page": [
+      "static/chunks/webpack-42b378407ebd7b05.js",
+      "static/chunks/4bd1b696-4809faa041413dbf.js",
+      "static/chunks/215-eb7cd82ed0205293.js",
+      "static/chunks/main-app-883a266fc878e019.js",
+      "static/chunks/8e1d74a4-3764197a4e4032a5.js",
+      "static/chunks/87cdb5df-6c569da121da9641.js",
+      "static/chunks/722-23e0f902b5320aaf.js",
+      "static/chunks/app/weathersummary/page-63c85f7f0433af56.js"
+    ]
+  }
+}

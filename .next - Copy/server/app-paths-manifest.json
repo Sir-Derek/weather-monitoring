@@ -1,0 +1,9 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/fonts/preferences/page": "app/fonts/preferences/page.js",
+  "/weatherpage/page": "app/weatherpage/page.js",
+  "/page": "app/page.js",
+  "/fonts/summary/page": "app/fonts/summary/page.js",
+  "/weathersummary/page": "app/weathersummary/page.js"
+}
